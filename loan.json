@@ -1,0 +1,46 @@
+{
+    "year": {
+        "2016": {
+            "American Indian": 67845300,
+            "Asian": 2246282000,
+            "Black": 219453300,
+            "Hispanic": 2246282000,
+            "Undetermined": 2246282000,
+            "White": 6454184100
+        },
+        "2017": {
+            "American Indian": 68142700,
+            "Asian": 68142700,
+            "Black": 68142700,
+            "Hispanic": 68142700,
+            "Undetermined": 1633486900,
+            "White": 6711848700
+        },
+        "2018": {
+            "American Indian": 91462700,
+            "Asian": 2991201300,
+            "Black": 380276100,
+            "Hispanic": 791385800,
+            "Undetermined": 2252313200,
+            "White": 6995804800
+        },
+        "2019": {
+            "American Indian": 85401300,
+            "Asian": 2724010600,
+            "Black": 399992500,
+            "Hispanic": 793576000,
+            "Undetermined": 2219887900,
+            "White": 6111187100
+        },
+        "2020": {
+            "American Indian": 64420400,
+            "Asian": 2354455700,
+            "Black": 288048200,
+            "Hispanic": 638124100,
+            "Undetermined": 2003660600,
+            "White": 5308015300
+        }
+    }
+    
+
+}
